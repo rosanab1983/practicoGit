@@ -1,0 +1,6 @@
+[2022-03-15T13:55:00.063Z] [ message] [vmtoolsd] Log caching is enabled with maxCacheEntries=4096.
+[2022-03-15T13:55:00.064Z] [ message] [vmtoolsd] Core dump limit set to -1
+[2022-03-15T13:55:00.081Z] [ message] [vmtoolsd] Cannot load message catalog for domain 'vmtoolsd', language 'es', catalog dir '/usr/share/open-vm-tools'.
+[2022-03-15T14:05:01.262Z] [ message] [vmtoolsd] Log caching is enabled with maxCacheEntries=4096.
+[2022-03-15T14:05:01.297Z] [ message] [vmtoolsd] Core dump limit set to -1
+[2022-03-15T14:05:01.350Z] [ message] [vmtoolsd] Cannot load message catalog for domain 'vmtoolsd', language 'es', catalog dir '/usr/share/open-vm-tools'.
